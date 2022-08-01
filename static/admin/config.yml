@@ -21,4 +21,4 @@ backend:
 -  name: test-repo
 
 +  name: github
-+  repo: buddhi-ashen/buddhi-blog
++  repo: buddhi-ashen/buddhi-blogd
