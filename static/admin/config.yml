@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: thomaswang/gatsby-personal-starter-blog
+  repo: buddhi-ashen/buddhi-blog
 
 media_folder: content/assets
 public_folder: ../assets
@@ -17,8 +17,4 @@ collections:
       - { name: description, label: Description }
       - { name: body, label: Body, widget: markdown }
 
-backend:
--  name: test-repo
 
-+  name: github
-+  repo: buddhi-ashen/buddhi-blog
