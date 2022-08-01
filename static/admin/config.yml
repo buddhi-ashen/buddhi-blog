@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: buddhi-ashen/buddhi-blog
+-  name: github
++  repo: buddhi-ashen/buddhi-blog
 
 media_folder: content/assets
 public_folder: ../assets
